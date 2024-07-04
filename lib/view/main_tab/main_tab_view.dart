@@ -35,7 +35,6 @@ class _MainTabViewState extends State<MainTabView>
   @override
   void initState() {
     controller = TabController(length: 4, vsync: this);
-    // TODO: implement initState
     super.initState();
   }
 
